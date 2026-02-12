@@ -1,6 +1,7 @@
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/remidefleurian/ochim/blob/main/LICENSE)
-
 # [Analysis] Onsets of Chills in Music (oChiM)
+
+[![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.18624628.svg)](https://doi.org/10.5281/zenodo.18624628)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/remidefleurian/ochim/blob/main/LICENSE)
 
 This repository reproduces the analysis reported in the following article:
 
