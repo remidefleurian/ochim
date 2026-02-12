@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+**/__pycache__/
+data/ochim.csv
+data/features/*
+data/preprocessed/all.csv

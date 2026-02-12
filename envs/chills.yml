@@ -1,0 +1,10 @@
+name: chills
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas=1.2.0
+  - pip=20.3.3
+  - pip:
+    - scikit-learn==0.24.0
+    - sed-eval==0.2.1
