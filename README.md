@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/remidefleurian/ochim)](https://github.com/remidefleurian/ochim/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/remidefleurian/ochim/blob/main/LICENSE)
 
 # [Analysis] Onsets of Chills in Music (oChiM)
 
