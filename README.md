@@ -1,6 +1,6 @@
 # [Analysis] Onsets of Chills in Music (oChiM)
 
-[![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.18624628.svg)](https://doi.org/10.5281/zenodo.18624628)
+[![doi](https://zenodo.org/badge/DOI/10.5281/zenodo.18624627.svg)](https://doi.org/10.5281/zenodo.18624627)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/remidefleurian/ochim/blob/main/LICENSE)
 
 This repository reproduces the analysis reported in the following article:
@@ -43,7 +43,7 @@ The R scripts can be skipped, in which case the Python script will use the pre-p
 ### Download raw data
 
 - Download [features.zip](https://osf.io/x59fm/files/k6bmv) and extract it in the data folder
-- Download [ochim.csv](https://osf.io/x59fm/files/46mkj) and place it in the data folder
+- Download [ochim.csv](https://osf.io/x59fm/files/8fh4p) and place it in the data folder
 
 The folder should now look like this:
 ```
